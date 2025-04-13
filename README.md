@@ -1,5 +1,5 @@
 # Sharing Torrent-like Application
-HCMUTorrent
+242_aaa_MMT
 
 ## Setup
 **Install libraries**
